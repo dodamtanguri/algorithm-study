@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/DoubleLinkedList.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21r9VwNTEeDkMFZctkbBNJd17Zj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.N1">
+    <configuration name="최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.최단거리" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoormLevel.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Socar.N1" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.Socar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.Socar.N2" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.Socar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N3" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.cafe24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N4" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.cafe24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N5" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingTest.cafe24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="문자열뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.문자열뒤집기" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoormLevel.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완전수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.완전수" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoormLevel.level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.N1" />
+        <item itemvalue="Application.N2 (1)" />
+        <item itemvalue="Application.N5" />
+        <item itemvalue="Application.N4" />
+        <item itemvalue="Application.N3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="" />
+      <created>1638688366369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638688366369</updated>
+      <workItem from="1638688367838" duration="244000" />
+      <workItem from="1638690430678" duration="45000" />
+      <workItem from="1638690508919" duration="11920000" />
+      <workItem from="1638976955070" duration="5527000" />
+      <workItem from="1639114412700" duration="3813000" />
+      <workItem from="1639280367993" duration="4472000" />
+      <workItem from="1639524476694" duration="672000" />
+      <workItem from="1639534043942" duration="19703000" />
+      <workItem from="1639716863557" duration="809000" />
+      <workItem from="1639718684043" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/datastructure/Queue.java</url>
+          <line>27</line>
+          <properties class="datastructure.Queue" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codingTest/Socar/N1.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
