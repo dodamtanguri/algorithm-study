@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/Socar/N1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/Socar/N2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/cafe24/N1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/cafe24/N2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/cafe24/N3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/cafe24/N4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/codingTest/cafe24/N5.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="21r9VwNTEeDkMFZctkbBNJd17Zj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,13 +57,57 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.N1">
-    <configuration name="최단거리" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.최단거리" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="BruteForce" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BST">
+    <configuration name="BOJ15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.BOJ15651" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GoormLevel.level2.*" />
+          <option name="PATTERN" value="BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.BST" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.HashTable" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearProbing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.LinearProbing" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,91 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.Socar.N2" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.Socar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N3" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.cafe24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N4" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.cafe24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codingTest.cafe24.N5" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codingTest.cafe24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="문자열뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.문자열뒤집기" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GoormLevel.level2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="완전수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GoormLevel.level2.완전수" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="GoormLevel.level2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BST" />
+        <item itemvalue="Application.BOJ15651" />
+        <item itemvalue="Application.LinearProbing" />
+        <item itemvalue="Application.HashTable" />
         <item itemvalue="Application.N1" />
-        <item itemvalue="Application.N2 (1)" />
-        <item itemvalue="Application.N5" />
-        <item itemvalue="Application.N4" />
-        <item itemvalue="Application.N3" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +156,11 @@
       <workItem from="1639534043942" duration="19703000" />
       <workItem from="1639716863557" duration="809000" />
       <workItem from="1639718684043" duration="173000" />
+      <workItem from="1639719059870" duration="782000" />
+      <workItem from="1639975171852" duration="5386000" />
+      <workItem from="1639995786699" duration="6186000" />
+      <workItem from="1640169399458" duration="34000" />
+      <workItem from="1640505400608" duration="3070000" />
     </task>
     <servers />
   </component>
@@ -191,10 +178,36 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ15651.java</url>
+          <line>26</line>
+          <properties class="BruteForce.BOJ15651" method="rec_func">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/datastructure/BST.java</url>
+          <line>68</line>
+          <properties class="datastructure.BST" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codingTest/Socar/N1.java</url>
           <line>103</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ15651.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructure/BST.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
