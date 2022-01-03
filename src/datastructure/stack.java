@@ -2,7 +2,7 @@ package datastructure;
 
 import java.util.ArrayList;
 
-public class Stack<T> {
+public class stack<T> {
     private ArrayList<T> myStack = new ArrayList<T>();
 
     public void push(T n) {
@@ -19,7 +19,7 @@ public class Stack<T> {
     }
 
     public static void main(String[] args) {
-        Stack<Integer> ms = new Stack<>();
+        stack<Integer> ms = new stack<>();
         ms.push(1);
         ms.push(2);
         System.out.println(ms.pop());
