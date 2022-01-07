@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_10451.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_10451.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/temp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_10451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_10451.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="21r9VwNTEeDkMFZctkbBNJd17Zj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,49 +54,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BruteForce" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_10451">
+  <component name="RunManager" selected="Application.BOJ_9095">
     <configuration name="BOJ_10451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graph.BOJ_10451" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_1057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.BOJ_1057" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BruteForce.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_10815" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BOJ_10815" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,20 +93,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BOJ_2512" />
+    <configuration name="BOJ_2644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_2644" />
       <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_2644_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_2644_list" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_9095" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_9095" />
+        <item itemvalue="Application.BOJ_2644" />
+        <item itemvalue="Application.BOJ_2644_list" />
         <item itemvalue="Application.BOJ_10451" />
         <item itemvalue="Application.BOJ_1260" />
-        <item itemvalue="Application.BOJ_10815" />
-        <item itemvalue="Application.BOJ_2512" />
-        <item itemvalue="Application.BOJ_1057" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +168,11 @@
       <workItem from="1640670824065" duration="6997000" />
       <workItem from="1640866132595" duration="6057000" />
       <workItem from="1641197855874" duration="6997000" />
-      <workItem from="1641274477356" duration="15779000" />
+      <workItem from="1641274477356" duration="15908000" />
+      <workItem from="1641445051143" duration="6522000" />
+      <workItem from="1641452821155" duration="9000" />
+      <workItem from="1641452846136" duration="6439000" />
+      <workItem from="1641562153655" duration="769000" />
     </task>
     <servers />
   </component>
@@ -228,11 +250,6 @@
           <url>file://$PROJECT_DIR$/src/BinarySearch/BOJ_2512.java</url>
           <line>42</line>
           <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Graph/BOJ_10451.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

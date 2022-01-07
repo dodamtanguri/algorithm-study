@@ -19,7 +19,6 @@ public class BOJ_10451 {
         for (int i = 0; i < testCase; i++) {
             n = Integer.parseInt(br.readLine());
             adj = new ArrayList[n + 1];
-            //리스트 초기화
             for (int k = 1; k <= n; k++) {
                 adj[k] = new ArrayList<>();
             }
