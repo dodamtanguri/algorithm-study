@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_10451.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_10451.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/temp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_10451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_10451.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/temp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DynamicProgramming/BOJ_11052.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DynamicProgramming/BOJ_11052.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +63,13 @@
       <recent name="BruteForce" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_9095">
-    <configuration name="BOJ_10451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_10451" />
+  <component name="RunManager" selected="Application.BOJ_15991">
+    <configuration name="BOJ_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_1003" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_1260" />
+    <configuration name="BOJ_10870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_10870" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_2644" />
+    <configuration name="BOJ_11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_11726" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2644_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Graph.BOJ_2644_list" />
+    <configuration name="BOJ_15988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_15988" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Graph.*" />
+          <option name="PATTERN" value="DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_9095" />
+    <configuration name="BOJ_15991" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_15991" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_9095" />
-        <item itemvalue="Application.BOJ_2644" />
-        <item itemvalue="Application.BOJ_2644_list" />
-        <item itemvalue="Application.BOJ_10451" />
-        <item itemvalue="Application.BOJ_1260" />
+        <item itemvalue="Application.BOJ_15991" />
+        <item itemvalue="Application.BOJ_15988" />
+        <item itemvalue="Application.BOJ_10870" />
+        <item itemvalue="Application.BOJ_1003" />
+        <item itemvalue="Application.BOJ_11726" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +169,7 @@
       <workItem from="1641445051143" duration="6522000" />
       <workItem from="1641452821155" duration="9000" />
       <workItem from="1641452846136" duration="6439000" />
-      <workItem from="1641562153655" duration="769000" />
+      <workItem from="1641562153655" duration="8782000" />
     </task>
     <servers />
   </component>
@@ -205,6 +202,15 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_2579.java</url>
+          <line>12</line>
+          <properties class="DynamicProgramming.BOJ_2579" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/codingTest/Socar/N1.java</url>
@@ -250,6 +256,11 @@
           <url>file://$PROJECT_DIR$/src/BinarySearch/BOJ_2512.java</url>
           <line>42</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_15988.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
