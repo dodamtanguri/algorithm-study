@@ -63,20 +63,7 @@
       <recent name="BruteForce" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_15991">
-    <configuration name="BOJ_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_1003" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BOJ_9996">
     <configuration name="BOJ_10870" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_10870" />
       <module name="algorithm-study" />
@@ -90,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_11726" />
+    <configuration name="BOJ_11052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_11052" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
@@ -129,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ_9996" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteForce.BOJ_9996" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BruteForce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_9996" />
+        <item itemvalue="Application.BOJ_11052" />
         <item itemvalue="Application.BOJ_15991" />
         <item itemvalue="Application.BOJ_15988" />
         <item itemvalue="Application.BOJ_10870" />
-        <item itemvalue="Application.BOJ_1003" />
-        <item itemvalue="Application.BOJ_11726" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,9 @@
       <workItem from="1641445051143" duration="6522000" />
       <workItem from="1641452821155" duration="9000" />
       <workItem from="1641452846136" duration="6439000" />
-      <workItem from="1641562153655" duration="8782000" />
+      <workItem from="1641562153655" duration="9633000" />
+      <workItem from="1641871295606" duration="4149000" />
+      <workItem from="1641904891579" duration="9523000" />
     </task>
     <servers />
   </component>
@@ -261,6 +263,16 @@
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_15988.java</url>
           <line>16</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_11052.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_11052.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
