@@ -3,12 +3,11 @@ package BinarySearch;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class BOJ_6236 {
     static int[] price;
-    static int n, m, k, maxPrice,left,right;
+    static int n, m, k,left,right;
     static BufferedReader br;
     static StringTokenizer st;
 
@@ -22,7 +21,6 @@ public class BOJ_6236 {
 
         for (int i = 0; i < n; i++) {
             price[i] = Integer.parseInt(br.readLine());
-            maxPrice = Math.max(maxPrice, price[i]);
             right += price[i];
 
         }
