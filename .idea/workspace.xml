@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_2251.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +59,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BruteForce" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_2193">
-    <configuration name="BOJ_14494" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_14494" />
+  <component name="RunManager" selected="Application.BOJ_1806">
+    <configuration name="BOJ_1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.BOJ.BOJ_1158" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="datastructure.BOJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_14495" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_14495" />
+    <configuration name="BOJ_1806" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointer.BOJ_1806" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="TwoPointer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_2193" />
+    <configuration name="BOJ_2312" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.BOJ_2312" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DynamicProgramming.BOJ_2225" />
+    <configuration name="BOJ_2960" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.BOJ_2960" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DynamicProgramming.*" />
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2548" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruteForce.BOJ_2548" />
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.temp" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BruteForce.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_2193" />
-        <item itemvalue="Application.BOJ_14494" />
-        <item itemvalue="Application.BOJ_2548" />
-        <item itemvalue="Application.BOJ_14495" />
-        <item itemvalue="Application.BOJ_2225" />
+        <item itemvalue="Application.BOJ_1806" />
+        <item itemvalue="Application.BOJ_1158" />
+        <item itemvalue="Application.temp" />
+        <item itemvalue="Application.BOJ_2312" />
+        <item itemvalue="Application.BOJ_2960" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +179,21 @@
       <workItem from="1642000136584" duration="7824000" />
       <workItem from="1642166387439" duration="14070000" />
       <workItem from="1642265691289" duration="7598000" />
-      <workItem from="1642581111176" duration="4264000" />
+      <workItem from="1642581111176" duration="4305000" />
+      <workItem from="1642607581119" duration="6614000" />
+      <workItem from="1643000594450" duration="5514000" />
+      <workItem from="1643183008428" duration="4284000" />
+      <workItem from="1643267964854" duration="5519000" />
+      <workItem from="1643865137795" duration="1353000" />
+      <workItem from="1644294855786" duration="8432000" />
+      <workItem from="1644420928852" duration="2368000" />
+      <workItem from="1645366377954" duration="26000" />
+      <workItem from="1645366419631" duration="46000" />
+      <workItem from="1645366482909" duration="1462000" />
+      <workItem from="1647863903562" duration="1966000" />
+      <workItem from="1650538134976" duration="4252000" />
+      <workItem from="1652137344635" duration="682000" />
+      <workItem from="1652788485471" duration="61000" />
     </task>
     <servers />
   </component>
@@ -186,14 +203,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/datastructure/Queue.java</url>
-          <line>27</line>
-          <properties class="datastructure.Queue" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BruteForce/BOJ15651.java</url>
           <line>26</line>
@@ -248,21 +257,6 @@
           <url>file://$PROJECT_DIR$/src/datastructure/MergeSort_1.java</url>
           <line>19</line>
           <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/BOJ_2512.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/BOJ_2512.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/BOJ_2512.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_15988.java</url>
@@ -333,6 +327,66 @@
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_14494.java</url>
           <line>30</line>
           <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_1562.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_15650.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_14888.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_14888.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_9663.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_9663.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_9663.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_9663.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BruteForce/BOJ_9663.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructure/BOJ/BOJ_1158.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructure/BOJ/BOJ_1158.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/datastructure/BOJ/BOJ_1158.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_2156.java</url>
