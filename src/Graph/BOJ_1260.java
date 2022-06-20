@@ -26,7 +26,6 @@ public class BOJ_1260 {
             st = new StringTokenizer(br.readLine(), " ");
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
-
             adj[a].add(b);
             adj[b].add(a);
         }

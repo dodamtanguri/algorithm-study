@@ -4,8 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
+    <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="temp">
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BinarySearch/BOJ_3079.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BinarySearch/예산.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BruteForce/BOJ_14888.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BruteForce/BOJ_1562.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BruteForce/BOJ_15649.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BruteForce/BOJ_15650.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/BruteForce/BOJ_9663.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/DynamicProgramming/BOJ_9507.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/DFS/BOJ_11724.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/DFS/BOJ_11724_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/DFS/BOJ_13023.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/DFS/BOJ_2606.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Math/BOJ_1024.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Math/BOJ_2312.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/Math/BOJ_2960.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/BOJ/BOJ_10828.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/BOJ/BOJ_1158.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/temp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BOJ_3079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/예산.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/BOJ_14888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/BOJ_1562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/BOJ_15649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/BOJ_15650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteForce/BOJ_9663.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/BOJ_9507.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DFS/BOJ_11724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DFS/BOJ_11724_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DFS/BOJ_13023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/DFS/BOJ_2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/BOJ_1024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/BOJ_2312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/BOJ_2960.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointer/BOJ_1806.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/BOJ/BOJ_10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/BOJ/BOJ_1158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/temp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +94,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -128,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_2193" />
-        <item itemvalue="Application.BOJ_14494" />
         <item itemvalue="Application.BOJ_2548" />
-        <item itemvalue="Application.BOJ_14495" />
         <item itemvalue="Application.BOJ_2225" />
+        <item itemvalue="Application.BOJ_2193" />
+        <item itemvalue="Application.BOJ_14495" />
+        <item itemvalue="Application.BOJ_14494" />
       </list>
     </recent_temporary>
   </component>
@@ -174,8 +215,15 @@
       <workItem from="1642166387439" duration="14070000" />
       <workItem from="1642265691289" duration="7598000" />
       <workItem from="1642581111176" duration="4264000" />
-      <workItem from="1655766462332" duration="26000" />
     </task>
+    <task id="LOCAL-00001" summary="temp">
+      <created>1655769097804</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655769097804</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +239,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="temp" />
+    <option name="LAST_COMMIT_MESSAGE" value="temp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -30,5 +30,6 @@ public class Queue<T> {
         queue1.enqueue(1);
         queue1.enqueue(135);
         System.out.println(queue1.dequeue());
+
     }
 }
