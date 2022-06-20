@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/datastructure/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,30 +49,41 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="BruteForce" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_1806">
+  <component name="RunManager" selected="Application.BOJ_2606">
     <configuration name="BOJ_1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datastructure.BOJ.BOJ_1158" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="datastructure.BOJ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.DFS.BOJ_11724" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.DFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,25 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2312" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.BOJ_2312" />
+    <configuration name="BOJ_2606" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.DFS.BOJ_2606" />
       <module name="algorithm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ_2960" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.BOJ_2960" />
-      <module name="algorithm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math.*" />
+          <option name="PATTERN" value="Graph.DFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_2606" />
+        <item itemvalue="Application.BOJ_11724" />
         <item itemvalue="Application.BOJ_1806" />
         <item itemvalue="Application.BOJ_1158" />
         <item itemvalue="Application.temp" />
-        <item itemvalue="Application.BOJ_2312" />
-        <item itemvalue="Application.BOJ_2960" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +191,12 @@
       <workItem from="1647863903562" duration="1966000" />
       <workItem from="1650538134976" duration="4252000" />
       <workItem from="1652137344635" duration="682000" />
-      <workItem from="1652788485471" duration="61000" />
+      <workItem from="1652788485471" duration="241000" />
+      <workItem from="1652969946268" duration="3350000" />
+      <workItem from="1654060461610" duration="4366000" />
+      <workItem from="1654328197972" duration="3541000" />
+      <workItem from="1655216021457" duration="1961000" />
+      <workItem from="1655725504374" duration="1666000" />
     </task>
     <servers />
   </component>
@@ -388,12 +391,51 @@
           <line>34</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_11724.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_11724.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_11724.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_11724.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_2606.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_2606.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Graph/DFS/BOJ_2606.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/DynamicProgramming/BOJ_2156.java</url>
           <line>7</line>
           <properties field="n" class="DynamicProgramming.BOJ_2156" />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
+        <breakpoint enabled="true" suspend="THREAD" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="111" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
