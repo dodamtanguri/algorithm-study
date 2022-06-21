@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -202,6 +203,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="workspace.xml commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
