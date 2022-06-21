@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2a04461a-adee-4d58-98e5-226c34e597c7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/Graph/BOJ_1260.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-study/TwoPointer/BOJ_1806.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/BOJ_1260.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +51,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -195,8 +196,7 @@
       <workItem from="1654060461610" duration="4366000" />
       <workItem from="1654328197972" duration="3541000" />
       <workItem from="1655216021457" duration="1961000" />
-      <workItem from="1655725504374" duration="1993000" />
-      <workItem from="1655822668850" duration="21000" />
+      <workItem from="1655725504374" duration="1666000" />
     </task>
     <servers />
   </component>
