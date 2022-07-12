@@ -17,8 +17,6 @@ public class BOJ_1260_1 {
         v = Integer.parseInt(st.nextToken());
 
         arr = new ArrayList<>(n+1);
-        for(int i = 1; i <= n; i++) {
-            arr[i] = new ArrayList<Integer>();
-        }
+
     }
 }

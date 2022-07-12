@@ -1,10 +1,11 @@
 package Graph.DFS;
 
+import com.sun.xml.internal.ws.policy.spi.PolicyAssertionValidator;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
+import java.util.*;
 
 public class BOJ_2606 {
     static int n, m, ans;
@@ -31,14 +32,31 @@ public class BOJ_2606 {
             a[s].add(e);
             a[e].add(s);
         }
-        ans = 0;
-        DFS(1);
 
-        System.out.println(ans);
+//        DFS(1);
+        BFS(1);
+
+
 
     }
 
-     static void DFS(int i) {
+    private static void BFS(int v) {
+        Queue<Integer> queue = new LinkedList<>();
+        queue.add(v);
+        visit[v] = true;
+        while (!queue.isEmpty()) {
+            v = queue.poll();
+            for(int i : a[v]) {
+                if(visit[i]) continue;
+                queue.add(i);
+                visit[i] = true;
+                ans++;
+            }
+        }
+        System.out.println(ans);
+    }
+
+    static void DFS(int i) {
         visit[i] = true;
         for (int k : a[i]) {
             if (!visit[k]) {
