@@ -25,8 +25,8 @@ public class BOJ_11660_구간합구하기2 {
         //구간합 구하기
         int[][] D = new int[n+1][n+1];
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                D[i][j] = D[i][j-1] + D[i-1][j] - D[i-1][j-1] + arr[i][j];
+            for (int k = 1; k <= n; k++) {
+                D[i][k] = D[i][k-1] + D[i-1][k] - D[i-1][k-1] + arr[i][k];
             }
         }
 
@@ -37,7 +37,9 @@ public class BOJ_11660_구간합구하기2 {
             int c = Integer.parseInt(st.nextToken());
             int d = Integer.parseInt(st.nextToken());
 
-           int result = D[d][c] - D[a-1][d] - D[c][b] + D[a-1][c-1];
+           int result = D[c][d] - D[a-1][d] - D[c][b-1] + D[a-1][b-1];
+
+            System.out.println(result);
         }
 
     }
