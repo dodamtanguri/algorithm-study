@@ -1,16 +1,18 @@
 package Programmers.level0;
 
 import java.math.BigInteger;
-import java.util.stream.IntStream;
 import java.util.stream.LongStream;
-import java.util.stream.Stream;
+
 
 public class day9_구슬을나누는경우의수 {
     public int solution(int balls, int share) {
-
-        BigInteger under = BigInteger.valueOf(factorial(balls - share) * factorial(share));
-        BigInteger top = BigInteger.valueOf(factorial(balls));
-        return top.divide(under).intValue();
+        if(share == 0 || balls == share) {
+            return 1;
+        } else {
+            BigInteger under = BigInteger.valueOf(factorial(balls - share) * factorial(share));
+            BigInteger top = BigInteger.valueOf(factorial(balls));
+            return top.divide(under).intValue();
+        }
     }
 
     public long factorial(int n) {
