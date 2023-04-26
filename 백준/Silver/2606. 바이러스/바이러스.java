@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -53,14 +52,4 @@ public class Main {
         System.out.println(ans);
     }
 
-//    static void DFS(int i) {
-//        visit[i] = true;
-//        for (int k : a[i]) {
-//            if (!visit[k]) {
-//                ans++;
-//                DFS(k);
-//            }
-//        }
-//
-//    }
 }
