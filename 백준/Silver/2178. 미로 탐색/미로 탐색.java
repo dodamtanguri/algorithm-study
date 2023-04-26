@@ -33,14 +33,12 @@ public class Main {
                 int nx = x + dx[i];
                 int ny = y + dy[i];
 
-                if (nx < 0 || ny < 0 || nx >= N || ny >= M || maze[nx][ny] == 0) {
-                    continue;
-                }
-
-                if (maze[nx][ny] == 1) {
+                if (nx >= 0 && ny >= 0 && nx < N && ny < M && maze[nx][ny] == 1) {
                     queue.offer(new int[]{nx, ny});
                     maze[nx][ny] = maze[x][y] + 1;
                 }
+
+       
             }
 
         }
