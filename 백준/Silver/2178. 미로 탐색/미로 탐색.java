@@ -42,8 +42,8 @@ public class Main {
                     maze[nx][ny] = maze[x][y] + 1;
                 }
             }
-        }
 
-        System.out.println(maze[N - 1][M - 1]);
+        }
+              System.out.println(maze[N-1][M-1]);
     }
 }
