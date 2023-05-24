@@ -42,12 +42,20 @@ public class Main {
             }
 
             for(int i=1; i<n+2; i++) {
-                if(!visit[i] && Math.abs(cur.x-arr[i].x)+Math.abs(cur.y-arr[i].y) <= 1000) {
+                if(canVisit(cur, arr[i], i)) {
                     visit[i] = true;
                     q.add(arr[i]);
                 }
             }
         }
         System.out.println("sad");
+    }
+
+    public static boolean canVisit(Point cur, Point next, int nextIndex) {
+        return !visit[nextIndex] && getManhattanDistance(cur, next) <= 1000;
+    }
+
+    public static int getManhattanDistance(Point a, Point b) {
+        return Math.abs(a.x-b.x) + Math.abs(a.y-b.y);
     }
 }
